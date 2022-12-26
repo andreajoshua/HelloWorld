@@ -22,6 +22,8 @@ The following features are implemented:
 
 Here's a walkthrough of implemented features:
 
+https://imgur.com/a/EbVZv1Z
+
 <img src='https://imgur.com/a/EbVZv1Z' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap
